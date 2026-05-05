@@ -16,14 +16,11 @@ The repository is organized as follows:
 Contains the integrated technical matrix and processed data extracted from the 71 included studies.
 
 - **Bibliographic Data:** Full metadata of the analyzed corpus (2022–2026)  
-- **Technical Dimensions:** Data on knowledge modeling (Graph-based, Vector-based, Symbolic), architectures (RAG, GraphRAG, Agentic), and post-processing strategies  
-- **Accessibility Focus:** Categorization by cognitive, sensory, and linguistic accessibility  
+- **Research Questions Tables:** Structured tables mapping the selected studies to each research question (RQs)  
+- **Synthesis Tables:** Consolidated tables summarizing key findings, technical approaches, and relevant patterns identified across the literature  
 
 ### **PRISMA-ScR-Checklist**
 The completed PRISMA-ScR checklist, ensuring transparency and methodological rigor according to the 20 essential items for scoping reviews.
-
-### **Taxonomy-and-Patterns**
-Documentation of the Taxonomy of GenAI Workflows and the five predominant technical patterns identified in the literature (e.g., Knowledge-Grounded Generation, Cognitive-Taxonomic Control).
 
 ---
 
@@ -37,13 +34,14 @@ This review followed the **PRISMA-ScR guidelines** to map the intersection of Ge
 
 ---
 
-## Key Contributions
+## Highlights
 
-- **Technical Taxonomy:** A hierarchical classification of GenAI workflows for education  
-- **Evidence Mapping:** Identification of a clear transition from standalone models to hybrid, knowledge-grounded systems  
-- **Proposed Pipeline:** A technical workflow for controllable and inclusive content generation featuring a Transversal Accessibility Layer  
-- **Gap Analysis:** Identification of "multimodal blindness" in STEM and the need for standardized accessibility metrics  
-
+- PRISMA-ScR-based mapping of GenAI workflows for inclusive higher education  
+- Taxonomy of workflows across knowledge modeling, architectures, and evaluation  
+- Identification of critical gaps in accessibility integration across AI pipelines  
+- Evaluation remains heterogeneous, with a shift toward hybrid multi-dimensional metrics  
+- Proposed architectural pipeline for controllable and accessible AI generation
+  
 ---
 
 ## Authors
