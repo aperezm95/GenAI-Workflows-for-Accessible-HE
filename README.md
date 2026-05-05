@@ -8,7 +8,7 @@ The study systematically examines the technical integration of Generative Artifi
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized as follows:
 
@@ -27,7 +27,7 @@ Documentation of the Taxonomy of GenAI Workflows and the five predominant techni
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 This review followed the **PRISMA-ScR guidelines** to map the intersection of GenAI and inclusive higher education.
 
@@ -37,7 +37,7 @@ This review followed the **PRISMA-ScR guidelines** to map the intersection of Ge
 
 ---
 
-## 🚀 Key Contributions
+## Key Contributions
 
 - **Technical Taxonomy:** A hierarchical classification of GenAI workflows for education  
 - **Evidence Mapping:** Identification of a clear transition from standalone models to hybrid, knowledge-grounded systems  
@@ -46,7 +46,7 @@ This review followed the **PRISMA-ScR guidelines** to map the intersection of Ge
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Angel Pérez-Muñoz:** Universidad Politécnica Salesiana (UPS), Ecuador; Universidad de Alcalá (UAH), Spain  
 - **Concepción Batanero-Ochaita:** Universidad de Alcalá (UAH), Spain  
@@ -55,7 +55,7 @@ This review followed the **PRISMA-ScR guidelines** to map the intersection of Ge
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you use the datasets or supplementary materials, please cite the associated article:
 
@@ -63,7 +63,7 @@ If you use the datasets or supplementary materials, please cite the associated a
 
 ---
 
-## ⚖️ License
+## License
 
 This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 You are free to share and adapt the material, provided that appropriate credit is given to the authors.
