@@ -57,9 +57,8 @@ This review followed the **PRISMA-ScR guidelines** to map the intersection of Ge
 
 ## Citation
 
-If you use the datasets or supplementary materials, please cite the associated article:
-
-> Pérez-Muñoz, A., Batanero-Ochaita, C., Robles-Bykbaev, V., & Otón-Tortosa, S. (2026). *Generative AI Workflows for Creating Accessible Educational Content in Higher Education: A Scoping Review.*
+If you use the datasets or supplementary materials provided in this repository, please cite the associated article.
+Citation details will be updated upon publication.
 
 ---
 
